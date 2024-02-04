@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23F8D538-A97C-410C-BC99-0F147ED7C053"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13EB94D2-D7A7-43D4-A5B8-8CC69A58FC51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarPlayMusic/Template Manager/TemplateManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "searchHandlerForItem(listItem:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13EB94D2-D7A7-43D4-A5B8-8CC69A58FC51 - b27840cb2431d9c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarPlayMusic.TemplateManager.searchHandlerForItem(listItem: __C.CPListItem) -&gt; ()"
+                  moduleName = "CarPlayMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackbelding/Documents/XCodeProjects/test-carplay/music-carplay-integration/IntegratingCarPlayWithYourMusicApp/CarPlayMusic/Template%20Manager/TemplateManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "13EB94D2-D7A7-43D4-A5B8-8CC69A58FC51 - 66221be38d8e7468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CPSelectableListItem, () -&gt; ()) -&gt; () in CarPlayMusic.TemplateManager.searchHandlerForItem(listItem: __C.CPListItem) -&gt; ()"
+                  moduleName = "CarPlayMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackbelding/Documents/XCodeProjects/test-carplay/music-carplay-integration/IntegratingCarPlayWithYourMusicApp/CarPlayMusic/Template%20Manager/TemplateManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEBAF87D-31CE-4385-AF85-3F8B4AC417F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarPlayMusic/Template Manager/TemplateManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "searchHandlerForItem(listItem:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "571A8B70-DB4B-4C9C-B0DA-167EE9BB6B0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarPlayMusic/Apple Music/AppleMusicAPIController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "executeFetch(_:url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1BBF93D-C310-48F4-AA3D-BDCA3482B0FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarPlayMusic/Apple Music/AppleMusicAPIController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "executeFetch(_:url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1BBF93D-C310-48F4-AA3D-BDCA3482B0FB - 5b531ed7a0feb3b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarPlayMusic.AppleMusicAPIController.executeFetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, url: Swift.Optional&lt;Foundation.URL&gt;, completion: (Swift.Optional&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CarPlayMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackbelding/Documents/XCodeProjects/test-carplay/music-carplay-integration/IntegratingCarPlayWithYourMusicApp/CarPlayMusic/Apple%20Music/AppleMusicAPIController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "B1BBF93D-C310-48F4-AA3D-BDCA3482B0FB - 5b531ed7a0feb3b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarPlayMusic.AppleMusicAPIController.executeFetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, url: Swift.Optional&lt;Foundation.URL&gt;, completion: (Swift.Optional&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CarPlayMusic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackbelding/Documents/XCodeProjects/test-carplay/music-carplay-integration/IntegratingCarPlayWithYourMusicApp/CarPlayMusic/Apple%20Music/AppleMusicAPIController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80B9BB8D-70C4-49EC-9123-40EB013A0AAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarPlayMusic/App Lifecycle/PlayerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

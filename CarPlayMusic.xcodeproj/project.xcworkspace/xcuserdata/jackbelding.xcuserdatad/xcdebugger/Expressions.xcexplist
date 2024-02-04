@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in TemplateManager.searchHandlerForItem(listItem:):TemplateManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AppleMusicAPIController.executeFetch&lt;&#x3c4;_0_0&gt;(_:url:completion:):AppleMusicAPIController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resolvedUserToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
